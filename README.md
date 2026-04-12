@@ -1,16 +1,12 @@
 # Pipeline de Análise de Acidentes de Trânsito em Rodovias Federais
 
-Projeto de Big Data para análise de acidentes em rodovias federais, utilizando um pipeline de dados baseado na arquitetura Medallion (Landing, Bronze, Silver e Gold) para identificar padrões e fatores de risco associados à gravidade dos acidentes.
+Este projeto foi desenvolvido para a disciplina de Big Data, com base em dados públicos da Polícia Rodoviária Federal (PRF). A proposta é construir um pipeline de dados baseado na arquitetura Medallion (Landing, Bronze, Silver e Gold), identificando padrões e fatores de risco associados à gravidade dos acidentes.
+
+O foco principal é entender melhor o comportamento dos acidentes e identificar padrões que possam estar relacionados à gravidade das ocorrências.
 
 ## Objetivo
 
 Analisar padrões de acidentes de trânsito nas rodovias federais brasileiras para identificar fatores de risco, como horário, localização e condições da via, e entender quais situações estão mais associadas a acidentes graves.
-
-## Descrição do Projeto
-
-Este projeto foi desenvolvido com base em dados públicos da Polícia Rodoviária Federal (PRF). A proposta é construir um pipeline de dados capaz de coletar, organizar e transformar os dados de acidentes, permitindo análises mais estruturadas sobre o problema.
-
-O foco principal é entender melhor o comportamento dos acidentes e identificar padrões que possam estar relacionados à gravidade das ocorrências.
 
 ## Fonte de Dados
 
