@@ -95,12 +95,12 @@ pipeline-analise-acidentes-transito/
 
 ## Equipe
 
-- Arthur Reis 
-- Diego Escorel
-- Edmar Alencar  
-- Gabriel Moura 
-- Luiz Felipe Soriano  
-- Matheus Canel   
+- Arthur Reis (aars@cesar.school)
+- Diego Escorel (dfe@cesar.school)
+- Edmar Alencar  (era@cesar.school)
+- Gabriel Moura (gmoc@cesar.school)
+- Luiz Felipe Soriano (lfsbs@cesar.school)
+- Matheus Canel (mxgtc@cesar.school)
 
 ## Referências
 
