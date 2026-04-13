@@ -13,7 +13,7 @@ Analisar padrões de acidentes de trânsito nas rodovias federais brasileiras pa
 - Dataset: DATATRAN 2025 – Dados de Acidentes em Rodovias Federais  
 - Origem: Polícia Rodoviária Federal (PRF) – Dados Abertos  
 - Formato: CSV (UTF-8)  
-- Volume: aproximadamente 50.000 registros (jan–mar de 2025)
+- Volume: aproximadamente 75.000 registros
 
 ### Principais colunas
 
@@ -100,7 +100,7 @@ pipeline-analise-acidentes-transito/
 - Edmar Alencar  
 - Gabriel Moura 
 - Luiz Felipe Soriano  
-- Mateus Canel   
+- Matheus Canel   
 
 ## Referências
 
