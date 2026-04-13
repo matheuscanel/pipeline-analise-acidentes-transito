@@ -94,6 +94,13 @@ pipeline-analise-acidentes-transito/
 
 O arquivo  "documentacao/arquitetura.pdf" dispõe de maior detalhamento acerca da análise desenvolvida, contendo informações relativas a fontes de dados e arquitetura escolhida (medalhão). Além disso, detalha as tecnologias usadas. 
 
+## Estrutura do Repositório
+
+Formulário com o estado de cada parte do pipeline:
+- Ingestão: Finalizado
+- Armazenamento: Finalizado
+- Transformação: Finalizado
+
 
 ## Equipe
 
