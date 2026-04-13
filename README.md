@@ -88,10 +88,12 @@ pipeline-analise-acidentes-transito/
 │   ├── 01_landing_to_bronze.ipynb
 │   └── 02_bronze_to_silver.ipynb
 ├── documentacao/
-│   ├── arquitetura.md
-│   └── checklist.md
+│   ├── arquitetura.pdf
 └── README.md
 ```
+
+O arquivo  "documentacao/arquitetura.pdf" dispõe de maior detalhamento acerca da análise desenvolvida, contendo informações relativas a fontes de dados e arquitetura escolhida (medalhão). Além disso, detalha as tecnologias usadas. 
+
 
 ## Equipe
 
