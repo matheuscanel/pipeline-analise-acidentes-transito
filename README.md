@@ -24,7 +24,7 @@ Analisar padrões de acidentes de trânsito nas rodovias federais brasileiras pa
 - km  
 - tipo_acidente  
 - classificacao_acidente  
-- condicao_meteorologica  
+- condicao_metereologica  
 - tipo_pista  
 - mortos  
 - feridos_graves  
